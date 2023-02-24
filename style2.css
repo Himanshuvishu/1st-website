@@ -1,0 +1,96 @@
+.about {
+    background-color: #f9f9f9;
+    padding: 80px 0;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .about-info {
+    flex-basis: 50%;
+  }
+  
+  .about-info h2 {
+    font-size: 40px;
+    margin-bottom: 20px;
+  }
+  
+  .about-info p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 30px;
+  }
+  
+  .social-links {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .social-links a {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background-color: #333;
+    color: #fff;
+    border-radius: 50%;
+    margin-right: 10px;
+    text-align: center;
+    line-height: 40px;
+  }
+  .social-links a img{
+    width: 40px ;
+    height: 40px;
+  }
+  .social-links a i {
+    font-size: 20px;
+  }
+  
+  .about-image {
+    flex-basis: 40%;
+    text-align: center;
+  }
+  
+  .about-image img {
+    max-width: 100%;
+    border-radius: 50%;
+  }
+  footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 2em;
+    background-color:#333;
+    color: white;
+
+    }
+    .copyr{
+      background-color:black;
+      padding: 1em;
+      color: white;
+      justify-content: center;
+      text-align: center;
+
+    }
+    .fbox1 p{
+      margin-top: 10px;
+
+    }
+  
+    .fbox2 p{
+      margin-top: 10px;
+
+    }
+  
+    
+    .fbox3 p{
+      margin-top: 10px;
+
+    }
+    .fbox4 p{
+      margin-top: 10px;
+
+    }
+  

@@ -1,0 +1,107 @@
+*{
+    box-sizing: border-box;
+}
+header{
+    color: white;
+    background-image: url(https://occ-0-1360-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABQmxmZ6yEVv9ytOCTN8wnpyq7Pul8kjRW96CBuEPqo2qTs0NwUlMfwqPXYG31khFfyv02uDfIJc6TK6tBdfX6ZvYPpVLmi9uGN_wORW-A7PGA08dOhglJvMGAn0qkbQLhNgjUZHU4tNZjAhglTTozsAPMV_xbfoqp1Id.jpg?r=ed9);
+    height: 70vh; 
+    font-size: larger;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 0 0 10px black;
+    text-align: center;
+    padding: 110px;
+}
+header input{
+    width: 50vw;
+    padding: 7px;
+    box-shadow: 0 0 7px black;
+    background-color:white;
+    border-radius: 20px;
+    /* color: white; */
+}
+header button{
+    padding: 7px;
+    box-shadow: 0 0 7px black;
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+}
+  
+ button[type=submit]:hover {
+    background-color: #45a049;
+  }
+  main h3{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 0 0 5px black;
+    color:white
+    /* width: 10vw; */
+  }
+  .sone img{
+    text-align: center;
+    height: 50vh;
+    width: 30%;
+    margin-left: 5px;
+    margin: 1em;
+  }
+  .sone p{
+    justify-content:center;
+    text-align: justify;
+    padding: 1em;
+    /* color: #45a049; */
+  }
+  .goa{
+    float:right;
+  }
+.bangkok{
+    float: left;
+}
+.mal{
+    float: right;
+}
+.two iframe{
+    width: 30%;
+    /* margin: 2px; */
+    
+}
+.two{
+    display: flex;
+    justify-content: space-between;
+}
+footer{
+  display: flex;
+  justify-content: space-between;
+  padding: 2em;
+  background-color:#333;
+  color: white;
+  margin-top: 20px;
+
+  }
+  .copyr{
+    background-color:black;
+    padding: 1em;
+    color: white;
+    justify-content: center;
+    text-align: center;
+
+  }
+  .fbox1 p{
+    margin-top: 10px;
+
+  }
+
+  .fbox2 p{
+    margin-top: 10px;
+
+  }
+
+  
+  .fbox3 p{
+    margin-top: 10px;
+
+  }
+  .fbox4 p{
+    margin-top: 10px;
+
+  }
